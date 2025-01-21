@@ -2,3 +2,8 @@
   background-color: brown;
   color: white;
 }
+
+ul li {
+  list-style-type: armenian;
+  color: beige;
+}
